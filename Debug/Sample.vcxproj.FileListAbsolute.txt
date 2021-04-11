@@ -1,0 +1,2 @@
+C:\Users\enesc\Masaüstü\C_System_Programming\Src\Sample\Debug\Sample.exe
+C:\Users\enesc\Masaüstü\C_System_Programming\Src\Sample\Debug\Sample.pdb
